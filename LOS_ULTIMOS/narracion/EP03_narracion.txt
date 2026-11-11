@@ -1,0 +1,27 @@
+LOS ÚLTIMOS — EP03: LA VERDAD
+
+Formato: [tiempo] VOZ: texto   (las voces se generan por separado y se colocan en el tiempo indicado;
+ si una línea es más larga, la siguiente se desplaza automáticamente)
+
+[00:00.1] ELÍAS (narración): El hombre de la puerta tenía mi cara.
+[00:03.3] Nº 11 (el doble): Soy el número once. Tú eres el doce.
+[00:07.7] ELÍAS (narración): Me llevó más abajo. A un lugar que seguía vivo.
+[00:12.3] ELÍAS (narración): Servidores encendidos. Y una antena… transmitiendo al mundo entero.
+[00:17.3] ELÍAS (narración): El fin del mundo no fue un accidente. Tenía nombre.
+[00:21.6] VOZ EN LA RADIO: No confíes en los sobrevivientes.
+[00:23.7] ELÍAS (narración): Era una grabación.
+[00:25.8] ELÍAS ORIGINAL (video 2037): Me llamo Elías Varela. Yo provoqué la catástrofe.
+[00:30.4] ELÍAS ORIGINAL (video 2037): Si escuchas esto, eres una copia. Perdóname.
+[00:33.7] ELÍAS (narración): Era mi voz.
+[00:35.3] ELÍAS (narración): Doce copias. Cada una despertó sola… creyendo ser el último.
+[00:40.3] Nº 11 (el doble): La radio nos mantenía separados. Para que nunca supiéramos.
+[00:44.8] MUJER (señal externa): ¿Hola? ¿Alguien me escucha? Somos cuarenta… y somos humanos.
+[00:50.0] ELÍAS (narración): No éramos los últimos.
+[00:52.2] Nº 11 (el doble): Y el original… sigue vivo.
+
+Dirección de voz (TTS):
+- ELÍAS ORIGINAL (video 2037) -> voz 'Charon': Lee en español latinoamericano neutro, voz masculina cansada y llena de culpa, como una confesión grabada en video:
+- Nº 11 (el doble) -> voz 'Charon': Lee en español latinoamericano neutro, voz masculina serena, fría y triste, muy cerca del micrófono, lentamente:
+- MUJER (señal externa) -> voz 'Kore': Lee en español latinoamericano neutro, voz femenina joven, sin aliento, esperanzada y asustada, como por una radio de emergencia:
+- ELÍAS (narración) -> voz 'Charon': Lee en español latinoamericano neutro, con voz masculina grave, cálida y cinematográfica, como el narrador de un tráiler de suspenso. Ritmo pausado, íntimo, casi en susurro, con pausas dramáticas naturales:
+- VOZ EN LA RADIO -> voz 'Charon': Lee en español latinoamericano neutro, voz masculina tensa y urgente, como un mensaje de emergencia grabado, con miedo contenido:

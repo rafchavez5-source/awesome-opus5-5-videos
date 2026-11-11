@@ -1,0 +1,86 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat ExtraBold,76,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,3,5,90,90,0,1
+Style: Who,Montserrat SemiBold,34,&H0040C0FF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,3,0,5,90,90,0,1
+Style: Title,Bebas Neue,150,&H00F2F2F2,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,14,0,1,0,6,8,60,60,250,1
+Style: Card,Bebas Neue,78,&H00E8E8E8,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,10,0,1,3,2,8,60,60,330,1
+Style: Stamp,Montserrat Black,60,&H00FFFFFF,&H00FFFFFF,&H001C1CC0,&H001C1CC0,0,0,0,0,100,100,6,-4,3,16,0,5,60,60,0,1
+Style: Hand,Montserrat SemiBold,66,&H00F0F0F0,&H00FFFFFF,&H00101010,&H96000000,0,0,0,0,100,100,2,-3,1,4,2,5,60,60,0,1
+Style: Alert,Montserrat Black,54,&H00FFFFFF,&H00FFFFFF,&H001E1EC8,&H001E1EC8,0,0,0,0,100,100,4,0,3,18,0,8,60,60,380,1
+Style: EndBig,Bebas Neue,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,10,0,1,0,0,5,60,60,0,1
+Style: EndSmall,Montserrat SemiBold,42,&H00B0B0B0,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,12,0,1,0,0,5,60,60,0,1
+Style: EndNext,Montserrat ExtraBold,56,&H0040C0FF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.15,0:00:00.81,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}EL HOMBRE
+Dialogue: 1,0:00:00.81,0:00:02.12,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}DE LA PUERTA TENÍA
+Dialogue: 1,0:00:02.12,0:00:03.05,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}MI CARA.
+Dialogue: 1,0:00:03.30,0:00:04.25,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SOY EL NÚMERO
+Dialogue: 1,0:00:04.25,0:00:05.20,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ONCE. TÚ ERES
+Dialogue: 1,0:00:05.20,0:00:06.13,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}EL DOCE.
+Dialogue: 0,0:00:03.30,0:00:06.08,Who,,0,0,0,,{\pos(540,1088)\1c&H00FFE6C0\fad(120,120)}· Nº 11 ·
+Dialogue: 1,0:00:07.70,0:00:08.56,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ME LLEVÓ MÁS
+Dialogue: 1,0:00:08.56,0:00:09.79,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ABAJO. A UN LUGAR
+Dialogue: 1,0:00:09.79,0:00:11.29,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}QUE SEGUÍA VIVO.
+Dialogue: 1,0:00:12.30,0:00:13.03,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SERVIDORES
+Dialogue: 1,0:00:13.03,0:00:13.84,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ENCENDIDOS.
+Dialogue: 1,0:00:13.84,0:00:14.79,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}Y UNA ANTENA…
+Dialogue: 1,0:00:14.79,0:00:15.75,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}TRANSMITIENDO
+Dialogue: 1,0:00:15.75,0:00:17.27,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}AL MUNDO ENTERO.
+Dialogue: 1,0:00:17.30,0:00:18.47,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}EL FIN DEL MUNDO
+Dialogue: 1,0:00:18.47,0:00:18.91,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}NO FUE
+Dialogue: 1,0:00:18.91,0:00:19.86,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}UN ACCIDENTE.
+Dialogue: 1,0:00:19.86,0:00:21.17,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}TENÍA NOMBRE.
+Dialogue: 1,0:00:21.60,0:00:22.33,Sub,,0,0,0,,{\pos(540,1180)\1c&H0040C0FF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}NO CONFÍES
+Dialogue: 1,0:00:22.33,0:00:22.77,Sub,,0,0,0,,{\pos(540,1180)\1c&H0040C0FF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}EN LOS
+Dialogue: 1,0:00:22.77,0:00:23.98,Sub,,0,0,0,,{\pos(540,1180)\1c&H0040C0FF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SOBREVIVIENTES.
+Dialogue: 0,0:00:21.60,0:00:24.18,Who,,0,0,0,,{\pos(540,1088)\1c&H0040C0FF\fad(120,120)}· RADIO ·
+Dialogue: 1,0:00:24.00,0:00:24.51,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ERA UNA
+Dialogue: 1,0:00:24.51,0:00:25.59,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}GRABACIÓN.
+Dialogue: 1,0:00:25.80,0:00:26.83,Sub,,0,0,0,,{\pos(540,1180)\1c&H00D8F0D0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ME LLAMO ELÍAS
+Dialogue: 1,0:00:26.83,0:00:27.34,Sub,,0,0,0,,{\pos(540,1180)\1c&H00D8F0D0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}VARELA.
+Dialogue: 1,0:00:27.34,0:00:28.15,Sub,,0,0,0,,{\pos(540,1180)\1c&H00D8F0D0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}YO PROVOQUÉ
+Dialogue: 1,0:00:28.15,0:00:29.53,Sub,,0,0,0,,{\pos(540,1180)\1c&H00D8F0D0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}LA CATÁSTROFE.
+Dialogue: 0,0:00:25.80,0:00:29.48,Who,,0,0,0,,{\pos(540,1088)\1c&H00D8F0D0\fad(120,120)}· ARCHIVO 2037 ·
+Dialogue: 1,0:00:30.40,0:00:31.63,Sub,,0,0,0,,{\pos(540,1180)\1c&H00D8F0D0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SI ESCUCHAS ESTO,
+Dialogue: 1,0:00:31.63,0:00:32.71,Sub,,0,0,0,,{\pos(540,1180)\1c&H00D8F0D0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ERES UNA COPIA.
+Dialogue: 1,0:00:32.71,0:00:33.68,Sub,,0,0,0,,{\pos(540,1180)\1c&H00D8F0D0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}PERDÓNAME.
+Dialogue: 0,0:00:30.40,0:00:33.73,Who,,0,0,0,,{\pos(540,1088)\1c&H00D8F0D0\fad(120,120)}· ARCHIVO 2037 ·
+Dialogue: 1,0:00:33.70,0:00:34.85,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ERA MI VOZ.
+Dialogue: 1,0:00:35.30,0:00:36.17,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}DOCE COPIAS.
+Dialogue: 1,0:00:36.17,0:00:37.41,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}CADA UNA DESPERTÓ
+Dialogue: 1,0:00:37.41,0:00:38.42,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SOLA… CREYENDO
+Dialogue: 1,0:00:38.42,0:00:39.79,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SER EL ÚLTIMO.
+Dialogue: 1,0:00:40.30,0:00:41.19,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}LA RADIO NOS
+Dialogue: 1,0:00:41.19,0:00:41.78,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}MANTENÍA
+Dialogue: 1,0:00:41.78,0:00:42.52,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SEPARADOS.
+Dialogue: 1,0:00:42.52,0:00:43.56,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}PARA QUE NUNCA
+Dialogue: 1,0:00:43.56,0:00:44.72,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SUPIÉRAMOS.
+Dialogue: 0,0:00:40.30,0:00:44.67,Who,,0,0,0,,{\pos(540,1088)\1c&H00FFE6C0\fad(120,120)}· Nº 11 ·
+Dialogue: 1,0:00:44.80,0:00:45.89,Sub,,0,0,0,,{\pos(540,1180)\1c&H0040C0FF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}¿HOLA? ¿ALGUIEN
+Dialogue: 1,0:00:45.89,0:00:46.69,Sub,,0,0,0,,{\pos(540,1180)\1c&H0040C0FF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ME ESCUCHA?
+Dialogue: 1,0:00:46.69,0:00:47.78,Sub,,0,0,0,,{\pos(540,1180)\1c&H0040C0FF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SOMOS CUARENTA…
+Dialogue: 1,0:00:47.78,0:00:49.29,Sub,,0,0,0,,{\pos(540,1180)\1c&H0040C0FF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}Y SOMOS HUMANOS.
+Dialogue: 0,0:00:44.80,0:00:49.24,Who,,0,0,0,,{\pos(540,1088)\1c&H0040C0FF\fad(120,120)}· SEÑAL EXTERNA ·
+Dialogue: 1,0:00:50.00,0:00:50.65,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}NO ÉRAMOS
+Dialogue: 1,0:00:50.65,0:00:51.87,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}LOS ÚLTIMOS.
+Dialogue: 1,0:00:52.20,0:00:53.20,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}Y EL ORIGINAL…
+Dialogue: 1,0:00:53.20,0:00:54.34,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SIGUE VIVO.
+Dialogue: 0,0:00:52.20,0:00:54.29,Who,,0,0,0,,{\pos(540,1088)\1c&H00FFE6C0\fad(120,120)}· Nº 11 ·
+Dialogue: 2,0:00:00.00,0:00:02.90,Title,,0,0,0,,{\fad(150,400)\blur1}LOS ÚLTIMOS · EP. 3
+Dialogue: 2,0:00:17.30,0:00:21.40,Stamp,,0,0,0,,{\pos(540,540)\fscx140\fscy140\t(0,120,\fscx100\fscy100)\fad(0,250)}PROTOCOLO ECO
+Dialogue: 2,0:00:17.30,0:00:21.40,Stamp,,0,0,0,,{\pos(540,644)\fscx140\fscy140\t(0,120,\fscx100\fscy100)\fad(0,250)\fs42\1c&H00E0E0FF&}INICIO: 14 · 03 · 2037
+Dialogue: 2,0:00:35.30,0:00:39.80,Card,,0,0,0,,{\fad(300,300)}COPIAS ACTIVAS: 12
+Dialogue: 2,0:00:44.60,0:00:49.60,Alert,,0,0,0,,{\t(0,250,\alpha&H60&)\t(250,500,\alpha&H00&)\t(500,750,\alpha&H60&)\t(750,1000,\alpha&H00&)\t(1000,1250,\alpha&H60&)\t(1250,1500,\alpha&H00&)\t(1500,1750,\alpha&H60&)\t(1750,2000,\alpha&H00&)\t(2000,2250,\alpha&H60&)\t(2250,2500,\alpha&H00&)\t(2500,2750,\alpha&H60&)\t(2750,3000,\alpha&H00&)\t(3000,3250,\alpha&H60&)\t(3250,3500,\alpha&H00&)\t(3500,3750,\alpha&H60&)\t(3750,4000,\alpha&H00&)\t(4000,4250,\alpha&H60&)\t(4250,4500,\alpha&H00&)\t(4500,4750,\alpha&H60&)\t(4750,5000,\alpha&H00&)}SEÑAL EXTERNA DETECTADA
+Dialogue: 2,0:00:54.65,0:00:57.50,EndSmall,,0,0,0,,{\pos(540,760)\fad(300,0)}FIN DE LA TEMPORADA 1
+Dialogue: 2,0:00:54.85,0:00:57.50,EndBig,,0,0,0,,{\pos(540,900)\fad(400,0)}LOS ÚLTIMOS
+Dialogue: 2,0:00:55.25,0:00:57.50,EndNext,,0,0,0,,{\pos(540,1040)\fad(300,0)}TEMPORADA 2 · PRÓXIMAMENTE
+Dialogue: 2,0:00:55.65,0:00:57.50,EndSmall,,0,0,0,,{\pos(540,1130)\fad(300,0)\fs34}SÍGUEME PARA NO PERDERTELO

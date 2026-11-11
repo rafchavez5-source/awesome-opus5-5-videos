@@ -1,0 +1,24 @@
+LOS ÚLTIMOS — EP02: NO ESTAMOS SOLOS
+
+Formato: [tiempo] VOZ: texto   (las voces se generan por separado y se colocan en el tiempo indicado;
+ si una línea es más larga, la siguiente se desplaza automáticamente)
+
+[00:00.1] VOZ EN LA RADIO: Elías…
+[00:01.0] ELÍAS (narración): La radio sabía mi nombre.
+[00:03.4] ELÍAS (narración): La seguí toda la noche. Cada calle, la señal era más fuerte.
+[00:08.2] ELÍAS (narración): Me llevó bajo tierra.
+[00:16.3] ELÍAS (narración): Un refugio. Alguien vivió aquí… después del fin.
+[00:20.6] ELÍAS (narración): Decenas de rostros. Todos desaparecidos.
+[00:25.2] ELÍAS (narración): Y documentos. Sobre el día que terminó todo.
+[00:29.2] ELÍAS (narración): No fue un accidente. Alguien lo planeó.
+[00:33.4] ELÍAS (narración): Entonces la vi.
+[00:37.8] ELÍAS (narración): Una foto mía. Frente a mi refugio.
+[00:42.2] ELÍAS (narración): Tomada hace tres días.
+[00:44.3] ELÍAS (narración): Atrás decía: «Sujeto doce. Aún no recuerda».
+[00:48.3] ELÍAS (narración): Cinco años solo… y alguien me estaba esperando.
+[00:52.0] Nº 11 (el doble): Por fin llegaste, Elías.
+
+Dirección de voz (TTS):
+- Nº 11 (el doble) -> voz 'Charon': Lee en español latinoamericano neutro, voz masculina serena, fría y triste, muy cerca del micrófono, lentamente:
+- ELÍAS (narración) -> voz 'Charon': Lee en español latinoamericano neutro, con voz masculina grave, cálida y cinematográfica, como el narrador de un tráiler de suspenso. Ritmo pausado, íntimo, casi en susurro, con pausas dramáticas naturales:
+- VOZ EN LA RADIO -> voz 'Charon': Lee en español latinoamericano neutro, voz masculina tensa y urgente, como un mensaje de emergencia grabado, con miedo contenido:

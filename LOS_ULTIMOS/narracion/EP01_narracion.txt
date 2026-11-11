@@ -1,0 +1,22 @@
+LOS ÚLTIMOS — EP01: EL DÍA QUE TERMINÓ TODO
+
+Formato: [tiempo] VOZ: texto   (las voces se generan por separado y se colocan en el tiempo indicado;
+ si una línea es más larga, la siguiente se desplaza automáticamente)
+
+[00:00.1] VOZ EN LA RADIO: No confíes en los sobrevivientes.
+[00:03.2] ELÍAS (narración): Hace cinco años que el mundo se quedó en silencio.
+[00:06.8] ELÍAS (narración): Hoy salí a buscar comida… y encontré algo peor.
+[00:11.2] ELÍAS (narración): La ciudad ya no es nuestra.
+[00:13.4] ELÍAS (narración): Es del óxido, de la hierba… y del viento.
+[00:16.6] ELÍAS (narración): Aprendí a caminar sin hacer ruido.
+[00:20.3] ELÍAS (narración): Aprendí a no esperar a nadie.
+[00:25.8] ELÍAS (narración): Hasta que el silencio se rompió.
+[00:33.2] VOZ EN LA RADIO: Si alguien puede escucharme…
+[00:38.1] VOZ EN LA RADIO: …no confíes en los sobrevivientes.
+[00:41.3] ELÍAS (narración): ¿Sobrevivientes? Aquí no queda nadie.
+[00:44.9] ELÍAS (narración): Entonces lo escuché. Detrás de mí.
+[00:48.2] VOZ EN LA RADIO: Elías… no te des la vuelta.
+
+Dirección de voz (TTS):
+- ELÍAS (narración) -> voz 'Charon': Lee en español latinoamericano neutro, con voz masculina grave, cálida y cinematográfica, como el narrador de un tráiler de suspenso. Ritmo pausado, íntimo, casi en susurro, con pausas dramáticas naturales:
+- VOZ EN LA RADIO -> voz 'Charon': Lee en español latinoamericano neutro, voz masculina tensa y urgente, como un mensaje de emergencia grabado, con miedo contenido:

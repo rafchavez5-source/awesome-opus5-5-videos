@@ -1,0 +1,43 @@
+== EP01 ==
+OK   contenedor: mov,mp4,m4a,3gp,3g2,mj2
+OK   video: h264 High yuv420p
+OK   resolución: 1080x1920
+OK   fps: 30.000
+OK   duración: 57.00s
+OK   audio: aac 48000Hz 2ch 255kb/s
+OK   tamaño: 4.4 MB, 621 kb/s
+OK   decodificación completa: sin errores
+OK   sonoridad: -14.8 LUFS, pico -1.2 dBTP
+OK   sin negros largos en la imagen: ninguno (la tarjeta final es negra a propósito)
+OK   subtítulos: 13 líneas, sincronía con voz=sí, dentro del video=sí, sin solapes=sí
+== EP02 ==
+OK   contenedor: mov,mp4,m4a,3gp,3g2,mj2
+OK   video: h264 High yuv420p
+OK   resolución: 1080x1920
+OK   fps: 30.000
+OK   duración: 57.00s
+OK   audio: aac 48000Hz 2ch 261kb/s
+OK   tamaño: 4.5 MB, 637 kb/s
+OK   decodificación completa: sin errores
+OK   sonoridad: -14.7 LUFS, pico -1.3 dBTP
+OK   sin negros largos en la imagen: ninguno (la tarjeta final es negra a propósito)
+OK   subtítulos: 14 líneas, sincronía con voz=sí, dentro del video=sí, sin solapes=sí
+== EP03 ==
+OK   contenedor: mov,mp4,m4a,3gp,3g2,mj2
+OK   video: h264 High yuv420p
+OK   resolución: 1080x1920
+OK   fps: 30.000
+OK   duración: 57.50s
+OK   audio: aac 48000Hz 2ch 256kb/s
+OK   tamaño: 4.7 MB, 651 kb/s
+OK   decodificación completa: sin errores
+OK   sonoridad: -14.3 LUFS, pico -1.1 dBTP
+OK   sin negros largos en la imagen: ninguno (la tarjeta final es negra a propósito)
+OK   subtítulos: 15 líneas, sincronía con voz=sí, dentro del video=sí, sin solapes=sí
+== CONTINUIDAD ==
+OK   EP1 termina con la radio diciendo su nombre y EP2 empieza ahí
+OK   EP2 termina con alguien abriendo la puerta y EP3 empieza con el hombre de la puerta
+OK   La advertencia de la radio aparece en EP1 y se explica en EP3
+OK   «Sujeto 12» (EP2) = «Tú eres el doce» (EP3)
+OK   Protocolo Eco / fecha 14·03·2037 coherente en EP2 y EP3
+OK   Todo plano donde aparece Elías usa la hoja de personaje como referencia

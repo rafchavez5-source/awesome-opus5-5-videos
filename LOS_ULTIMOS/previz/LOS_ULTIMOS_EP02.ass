@@ -1,0 +1,74 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Montserrat ExtraBold,76,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,7,3,5,90,90,0,1
+Style: Who,Montserrat SemiBold,34,&H0040C0FF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,3,0,5,90,90,0,1
+Style: Title,Bebas Neue,150,&H00F2F2F2,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,14,0,1,0,6,8,60,60,250,1
+Style: Card,Bebas Neue,78,&H00E8E8E8,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,10,0,1,3,2,8,60,60,330,1
+Style: Stamp,Montserrat Black,60,&H00FFFFFF,&H00FFFFFF,&H001C1CC0,&H001C1CC0,0,0,0,0,100,100,6,-4,3,16,0,5,60,60,0,1
+Style: Hand,Montserrat SemiBold,66,&H00F0F0F0,&H00FFFFFF,&H00101010,&H96000000,0,0,0,0,100,100,2,-3,1,4,2,5,60,60,0,1
+Style: Alert,Montserrat Black,54,&H00FFFFFF,&H00FFFFFF,&H001E1EC8,&H001E1EC8,0,0,0,0,100,100,4,0,3,18,0,8,60,60,380,1
+Style: EndBig,Bebas Neue,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,10,0,1,0,0,5,60,60,0,1
+Style: EndSmall,Montserrat SemiBold,42,&H00B0B0B0,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,12,0,1,0,0,5,60,60,0,1
+Style: EndNext,Montserrat ExtraBold,56,&H0040C0FF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,4,0,1,0,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.10,0:00:01.00,Sub,,0,0,0,,{\pos(540,1180)\1c&H0040C0FF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ELÍAS…
+Dialogue: 0,0:00:00.10,0:00:01.20,Who,,0,0,0,,{\pos(540,1088)\1c&H0040C0FF\fad(120,120)}· RADIO ·
+Dialogue: 1,0:00:01.02,0:00:02.03,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}LA RADIO SABÍA
+Dialogue: 1,0:00:02.03,0:00:03.09,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}MI NOMBRE.
+Dialogue: 1,0:00:03.40,0:00:04.34,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}LA SEGUÍ TODA
+Dialogue: 1,0:00:04.34,0:00:05.36,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}LA NOCHE. CADA
+Dialogue: 1,0:00:05.36,0:00:06.45,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}CALLE, LA SEÑAL
+Dialogue: 1,0:00:06.45,0:00:07.89,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ERA MÁS FUERTE.
+Dialogue: 1,0:00:08.20,0:00:09.14,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ME LLEVÓ BAJO
+Dialogue: 1,0:00:09.14,0:00:10.00,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}TIERRA.
+Dialogue: 1,0:00:16.30,0:00:17.11,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}UN REFUGIO.
+Dialogue: 1,0:00:17.11,0:00:18.07,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ALGUIEN VIVIÓ
+Dialogue: 1,0:00:18.07,0:00:19.02,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}AQUÍ… DESPUÉS
+Dialogue: 1,0:00:19.02,0:00:19.96,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}DEL FIN.
+Dialogue: 1,0:00:20.60,0:00:21.12,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}DECENAS
+Dialogue: 1,0:00:21.12,0:00:21.94,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}DE ROSTROS.
+Dialogue: 1,0:00:21.94,0:00:22.32,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}TODOS
+Dialogue: 1,0:00:22.32,0:00:23.71,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}DESAPARECIDOS.
+Dialogue: 1,0:00:25.20,0:00:26.14,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}Y DOCUMENTOS.
+Dialogue: 1,0:00:26.14,0:00:27.01,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}SOBRE EL DÍA
+Dialogue: 1,0:00:27.01,0:00:28.58,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}QUE TERMINÓ TODO.
+Dialogue: 1,0:00:29.20,0:00:29.65,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}NO FUE
+Dialogue: 1,0:00:29.65,0:00:30.62,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}UN ACCIDENTE.
+Dialogue: 1,0:00:30.62,0:00:31.14,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ALGUIEN
+Dialogue: 1,0:00:31.14,0:00:32.24,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}LO PLANEÓ.
+Dialogue: 1,0:00:33.40,0:00:34.78,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ENTONCES LA VI.
+Dialogue: 1,0:00:37.80,0:00:38.75,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}UNA FOTO MÍA.
+Dialogue: 1,0:00:38.75,0:00:39.19,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}FRENTE
+Dialogue: 1,0:00:39.19,0:00:40.50,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}A MI REFUGIO.
+Dialogue: 1,0:00:42.20,0:00:43.36,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}TOMADA HACE TRES
+Dialogue: 1,0:00:43.36,0:00:44.07,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}DÍAS.
+Dialogue: 1,0:00:44.30,0:00:45.17,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ATRÁS DECÍA:
+Dialogue: 1,0:00:45.17,0:00:46.11,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}«SUJETO DOCE.
+Dialogue: 1,0:00:46.11,0:00:47.68,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}AÚN NO RECUERDA».
+Dialogue: 1,0:00:48.30,0:00:49.48,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}CINCO AÑOS SOLO…
+Dialogue: 1,0:00:49.48,0:00:50.14,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}Y ALGUIEN
+Dialogue: 1,0:00:50.14,0:00:50.80,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ME ESTABA
+Dialogue: 1,0:00:50.80,0:00:51.89,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFFFFF}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ESPERANDO.
+Dialogue: 1,0:00:52.00,0:00:53.22,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}POR FIN LLEGASTE,
+Dialogue: 1,0:00:53.22,0:00:53.98,Sub,,0,0,0,,{\pos(540,1180)\1c&H00FFE6C0}{\fscx86\fscy86\t(0,90,\fscx100\fscy100)}ELÍAS.
+Dialogue: 0,0:00:52.00,0:00:53.95,Who,,0,0,0,,{\pos(540,1088)\1c&H00FFE6C0\fad(120,120)}· Nº 11 ·
+Dialogue: 2,0:00:00.00,0:00:02.90,Title,,0,0,0,,{\fad(150,400)\blur1}LOS ÚLTIMOS · EP. 2
+Dialogue: 2,0:00:25.20,0:00:28.90,Stamp,,0,0,0,,{\pos(540,540)\fscx140\fscy140\t(0,120,\fscx100\fscy100)\fad(0,250)}PROTOCOLO ECO
+Dialogue: 2,0:00:25.20,0:00:28.90,Stamp,,0,0,0,,{\pos(540,644)\fscx140\fscy140\t(0,120,\fscx100\fscy100)\fad(0,250)\fs42\1c&H00E0E0FF&}CLASIFICADO
+Dialogue: 2,0:00:29.10,0:00:32.90,Stamp,,0,0,0,,{\pos(540,540)\fscx140\fscy140\t(0,120,\fscx100\fscy100)\fad(0,250)}LIBERACIÓN CONTROLADA
+Dialogue: 2,0:00:29.10,0:00:32.90,Stamp,,0,0,0,,{\pos(540,644)\fscx140\fscy140\t(0,120,\fscx100\fscy100)\fad(0,250)\fs42\1c&H00E0E0FF&}14 · 03 · 2037
+Dialogue: 2,0:00:44.30,0:00:48.10,Hand,,0,0,0,,{\pos(540,660)\fad(250,250)}SUJETO 12
+Dialogue: 2,0:00:44.30,0:00:48.10,Hand,,0,0,0,,{\pos(540,755)\fad(250,250)}AÚN NO RECUERDA
+Dialogue: 2,0:00:54.15,0:00:57.00,EndSmall,,0,0,0,,{\pos(540,760)\fad(300,0)}CONTINUARÁ
+Dialogue: 2,0:00:54.35,0:00:57.00,EndBig,,0,0,0,,{\pos(540,900)\fad(400,0)}LOS ÚLTIMOS
+Dialogue: 2,0:00:54.75,0:00:57.00,EndNext,,0,0,0,,{\pos(540,1040)\fad(300,0)}EP. 3 · LA VERDAD
+Dialogue: 2,0:00:55.15,0:00:57.00,EndSmall,,0,0,0,,{\pos(540,1130)\fad(300,0)\fs34}SÍGUEME PARA NO PERDERTELO
