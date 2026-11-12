@@ -1,0 +1,5 @@
+build/
+tools/__pycache__/
+# regenerables con tools/synth_audio.py (semilla fija)
+assets/audio/sfx/amb_*.wav
+assets/audio/music/*_score.wav
